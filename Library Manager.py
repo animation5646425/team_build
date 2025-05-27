@@ -6,5 +6,8 @@ library = [
     {"title": "鬼滅の刃", "author": "吾峠呼世晴", "status": "未読"},
     {"title": "ダンダダン", "author": "龍幸伸", "status": "途中"},
     {"title": "ジョジョの奇妙な冒険", "author": "荒木飛呂彦", "status": "途中"},
+    {"title": "進撃の巨人", "author": "諫山創", "status": "読了"},
+    {"title": "東京リベンジャーズ", "author": "和久井健", "status": "未読"},
+    {"title": "スラムダンク", "author": "井上井恵", "status": "読了"},
     {"title": "", "author": "", "status": ""},
 ]
