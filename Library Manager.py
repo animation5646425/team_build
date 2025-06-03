@@ -12,5 +12,6 @@ library = [
     {"title": "呪術廻戦", "author": "芥見下々", "status": "読了"},
     {"title": "薬屋のひとりごと", "author": "日向夏", "status": "未読"},
     {"title": "チェンソーマン", "author": "藤本タツキ", "status": "未読"},
+    {"title": "同志少女よ、敵を撃て", "author": "逢坂冬馬", "status": "読了"},
     {"title": "", "author": "", "status": ""},
 ]
