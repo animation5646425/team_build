@@ -12,5 +12,6 @@ library = [
     {"title": "薬屋のひとりごと", "author": "日向夏", "status": "未読"},
     {"title": "薬屋のひとりごと", "author": "日向夏", "status": "未読"},
     {"title": "薬屋のひとりごと", "author": "日向夏", "status": "未読"},
+    {"title": "チェンソーマン", "author": "藤本タツキ", "status": "未読"},
     {"title": "", "author": "", "status": ""},
 ]
