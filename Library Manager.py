@@ -10,5 +10,6 @@ library = [
     {"title": "東京リベンジャーズ", "author": "和久井健", "status": "未読"},#hata
     {"title": "スラムダンク", "author": "井上井恵", "status": "読了"},#hata
     {"title": "呪術廻戦", "author": "芥見下々", "status": "読了"},
+    {"title": "薬屋のひとりごと", "author": "日向夏", "status": "未読"},
     {"title": "", "author": "", "status": ""},
 ]
